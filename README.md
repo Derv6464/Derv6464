@@ -1,5 +1,5 @@
 ### [gif here]
-I'm a University of Limerick student studying [Immersive Software Enigeering](https://software-engineering.ie/).
+I'm an [![Immersive Software Enginnering](./images/ISE.jpg)](https://software-engineering.ie/) student.
 
 <!--
 **Derv6464/Derv6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

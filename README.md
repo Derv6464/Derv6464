@@ -1,5 +1,5 @@
 ### [gif here]
-I'm an [![Immersive Software Enginnering](./images/ISE.jpg)](https://software-engineering.ie/) student.
+I'm an [![Immersive Software Enginnering](./images/ise.png)](https://software-engineering.ie/) student.
 
 <!--
 **Derv6464/Derv6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,17 @@
 ### [gif here]
-I'm an [![Immersive Software Enginnering](./images/ise.png)](https://software-engineering.ie/) student.
+# I'm an [<img src="./images/ise.PNG" width="6%" >](https://software-engineering.ie/) student studing at [<img src="./images/ul.PNG" width="7%" >](https://www.ul.ie/) 
 
+## Contact Me:
+
+## What I'm doing?:
+Currently: On residency @ [Transact Campus](https://transactcampus.com/)
+
+Prevoiusly: 
+- On residency @ [AWS](https://aws.amazon.com/)
+- Studying @ [UL](https://www.ul.ie/) 
+
+## Programming Languages & Tools:
+[python][java][c++][kotlin][sql][html][fusion360][postman][raspberry pi][figma]
 <!--
 **Derv6464/Derv6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

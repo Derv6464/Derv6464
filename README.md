@@ -8,6 +8,7 @@
 Currently: Studying @ [UL](https://www.ul.ie/) 
 
 Prevoiusly: 
+- On residency @ [Analog Devices](https://www.analog.com/en/index.html)
 - On residency @ [Transact Campus](https://transactcampus.com/)
 - On residency @ [AWS](https://aws.amazon.com/)
 
